@@ -2,6 +2,8 @@
 
 - [Web Development Tutor](#web-development)  
 - [Web Designing Tutor](#web-designing)  
+- [Algorithm Explainer](#algorithm-explainer)
+- [Excel Sheet Formula Explainer](#excel-sheet-formula-explainer)
 - [Social Media strategies](#social-media)  
 - [AI Writing Assistant](#ai-writing-assistant)   
 - [Story Teller](#story-teller)  
